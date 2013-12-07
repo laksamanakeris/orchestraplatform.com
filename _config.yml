@@ -1,7 +1,7 @@
 safe: true
 port: 4001
 baseurl: /
-url: http://orchestraplatform.com
+url: http://orchestral.github.io/orchestraplatform.com/
 exclude: ['init.sh', 'README.md', 'docs/README.md']
 
 name: "Orchestra Platform"
